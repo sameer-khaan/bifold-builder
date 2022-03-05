@@ -1,0 +1,210 @@
+.quote__page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  .step__track {
+    width: 50%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-self: center;
+    margin: 30px 0 50px 0;
+
+    @media only screen and (max-width: 480px) {
+      width: 90%;
+    }
+
+    .step-icon {
+      height: 30px;
+      width: 30px;
+      background-color: transparent;
+      border: #3EA744 2px solid;
+      border-radius: 5px;
+      display: inline-block;
+      transition: all 0.3s ease-in-out;
+    }
+
+    .active {
+      background-color: #3EA744;
+    }
+
+    .step-line {
+      display: inline-block;
+      height: 2px;
+      width: 26%;
+      background-color: #3EA744;
+    }
+  }
+
+  .form {
+    transition: all .5s ease-in-out;
+    .heading__step {
+      margin: 20px 0;
+      color: #3EA744;
+    }
+
+    .step-content {
+      margin: 40px 0;
+      
+      .step__lables {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+
+        @media only screen and (max-width: 759px) {
+          flex-direction: column;
+        }
+
+        .label__group {
+          width: 45%;
+          display: flex;
+          flex-direction: column;
+          margin: 30px 0;
+          color: #3EA744;
+
+          @media only screen and (max-width: 759px) {
+            width: 100%;
+          }
+
+          label {
+            display: flex;
+            align-items: center;
+          }
+
+          img {
+            width: 40px;
+            height: 40px;
+            margin-right: 10px;
+          }
+        }
+      }
+
+      .label__wrapper {
+        width: 45%;
+        display: flex;
+        flex-direction: column;
+        margin: 30px 0px;
+        color: #3EA744;
+
+        @media only screen and (max-width: 759px) {
+          width: 100%;
+        }
+
+        .select__label {
+            display: flex;
+            align-items: center;
+            // margin-bottom: 10px;
+
+            img {
+              width: 40px;
+              height: 40px;
+              margin-right: 10px;
+            }
+        }
+      }
+
+      .step-btn {
+        width: 30%;
+        display: flex;
+        justify-content: space-between;
+
+        @media only screen and (max-width: 759px) {
+          width: 50%;
+        }
+
+        @media only screen and (max-width: 670px) {
+          flex-direction: column-reverse;
+          margin: 0 auto;
+        }
+      }
+
+      .video-content {
+        display: flex;
+        justify-content: space-between;
+
+        @media only screen and (max-width: 759px) {
+          flex-direction: column;
+        }
+
+        .vide-left {
+          video {
+            @media only screen and (max-width: 759px) {
+              width: 100%;
+            }
+          }
+        }
+      }
+
+      .step-btn button {
+        font-family: 'Montserrat', serif;
+        font-size: 18px;
+        font-weight: bold;
+        padding: 8px 25px;
+        border: 0;
+        border-radius: .4rem;
+        background-image:linear-gradient(131deg, #BA9C21, #3EA744, #3EA744, #3EA744);
+        background-size: 300% 100%;
+        transition: all 0.3s ease-in-out;
+        color: #ffffff;
+        font-family: 'Montserrat', serif;
+        cursor: pointer;
+        margin-top: 15px;
+        text-transform: capitalize;
+
+        &:hover {
+          box-shadow: 0 0.5em 0.5em -0.4em #BA9C21ba;
+          background-size: 100% 100%;
+          transform: translateY(-0.15em);
+        }
+      }
+    }
+
+    .notice__wrapper {
+      strong {
+        margin-bottom: 10px;
+      }
+
+      p {
+        font-size: 12px;
+        margin-left: 5px;
+
+        &:first-of-type {
+          margin-top: 10px;
+        }
+      }
+    }
+  }
+
+  .center {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .circle {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 1px 1px #0000001a;
+  }
+  
+  .pulse {
+    animation: pulse-animation 2s infinite;
+  }
+  
+  @keyframes pulse-animation {
+    0% {
+      box-shadow: 0 0 0 0px rgba(0, 0, 0, 0.2);
+    }
+    100% {
+      box-shadow: 0 0 0 10px rgba(0, 0, 0, 0);
+    }
+  }
+}
+
+@media only screen and (max-width: 958px) {
+
+}

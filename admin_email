@@ -1,0 +1,195 @@
+<table class="email-wrapper" style="background: #f3f3f3; width: 80%; margin: auto;" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="box-sizing: border-box; word-break: break-word;" align="center">
+<table class="email-content" style="margin: 0px; padding: 0px; width: 100%; height: 1323px; background: #f3f3f3;" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="height: 77px;">
+<td class="email-masthead" style="box-sizing: border-box; padding: 25px 0px; word-break: break-word; height: 91px;" align="center">
+<p><a href="https://bifold-door-prv8f.ondigitalocean.app/" target="_blank" rel="noopener"><span style="font-size: 14pt;"><strong><img src="http://bifoldbuilder.chigwellwindowcentre.co.uk/bifold-logo.png" alt="" width="248" height="93" /></strong></span></a></p>
+<p><span style="font-size: 18pt; color: #9d7ba8;"><strong>Your bifold quote</strong></span></p>
+<p>&nbsp;</p>
+<p><a style="padding: 10px 20px; border: 1px solid #9d7ba8; border-radius: 5px; text-decoration: none;" href="https://bifold-door-prv8f.ondigitalocean.app/" target="_blank" rel="noopener"><span style="font-size: 10pt; color: #9d7ba8;">GO TO WEBSITE</span></a></p>
+<a href="https://bifold-door-prv8f.ondigitalocean.app/" target="_blank" rel="noopener"><span style="font-size: 14pt; color: #843fa1;"> </span></a></td>
+</tr>
+<tr style="height: 1219px;">
+<td class="email-body" style="box-sizing: border-box; margin: 0px; width: 100%; word-break: break-word; height: 1065px; background: #f3f3f3;" bgcolor="#FFFFFF" width="100%"><a href="https://bifold-door-prv8f.ondigitalocean.app/" target="_blank" rel="noopener"><span style="font-size: 14pt; color: #843fa1;"> </span></a>
+<table class="email-body_inner" style="margin: 0px auto; padding: 0px; width: 744px; height: 10px; background: #f3f3f3;" width="570" cellspacing="0" cellpadding="0" align="center" bgcolor="#FFFFFF">
+<tbody>
+<tr style="height: 429px;">
+<td style="box-sizing: border-box; word-break: break-word; width: 743px; height: 10px;">
+<table class="body-action" style="padding: 0px; text-align: center; width: 90.3328%; height: 922px; margin: auto;" width="100%" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr style="height: 182px; background: white; border-radius: 10px;">
+<td style="box-sizing: border-box; word-break: break-word; width: 100%; height: 182px; border-radius: 10px; box-shadow: 0px 0px 12px -4px black; -moz-box-shadow: 0px 0px 12px -4px black; -webkit-box-shadow: 0px 0px 12px -4px black;" align="center">
+<table style="width: 84.3808%; border-style: none; height: 226px; border-radius: 10px;" border="0" width="100%" cellspacing="5" cellpadding="5">
+<tbody>
+<tr style="height: 51px; border-bottom: 2px solid #e6e6e6;">
+<td style="box-sizing: border-box; word-break: break-word; text-align: left; height: 78px; vertical-align: bottom; width: 99.7984%; border-bottom: 2px solid #e6e6e6;" colspan="2">
+<h1 id="mcetoc_1bjp7pvu70" style="color: #2f3133; font-size: 19px; margin-top: 0px; text-align: left;" align="left"><span style="font-size: 18pt; color: #9d7ba8;">User Details</span></h1>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="box-sizing: border-box; word-break: break-word; width: 40.2653%; height: 61px; text-align: left; vertical-align: bottom;" align="center"><span style="color: #878898; font-size: 13pt;">Name</span></td>
+<td style="box-sizing: border-box; word-break: break-word; width: 59.5331%; height: 61px; vertical-align: bottom;"><span style="font-size: 13pt; color: #878898;">{{yourName}}</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="box-sizing: border-box; word-break: break-word; width: 40.2653%; height: 23px;"><span style="color: #878898; font-size: 13pt;">Email</span></td>
+<td style="box-sizing: border-box; word-break: break-word; width: 59.5331%; height: 23px;"><span style="font-size: 13pt; color: #878898;">{{email}}</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="box-sizing: border-box; word-break: break-word; width: 40.2653%; height: 23px;"><span style="color: #878898; font-size: 13pt;">Phone</span></td>
+<td style="box-sizing: border-box; word-break: break-word; width: 59.5331%; height: 23px;"><span style="font-size: 13pt; color: #878898;">{{telephone}}</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="box-sizing: border-box; word-break: break-word; width: 40.2653%; height: 23px;"><span style="color: #878898; font-size: 13pt;">Postcode</span></td>
+<td style="box-sizing: border-box; word-break: break-word; width: 59.5331%; height: 23px;"><span style="font-size: 13pt; color: #878898;">{{postcode}}</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="box-sizing: border-box; word-break: break-word; width: 40.2653%; height: 18px;"><span style="color: #878898; font-size: 13pt;">&nbsp;</span></td>
+<td style="box-sizing: border-box; word-break: break-word; width: 59.5331%; height: 18px;"><span style="font-size: 13pt; color: #878898;">&nbsp;</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="height: 41px;">
+<td style="box-sizing: border-box; word-break: break-word; width: 100%; height: 41px;">
+<h1 id="mcetoc_1bjp7pvu70" style="color: #2f3133; font-size: 19px; margin-top: 0px; text-align: left;" align="left"><span style="font-size: 18pt; color: #9d7ba8;">&nbsp;</span></h1>
+</td>
+</tr>
+<tr style="height: 510px; background: white; border-radius: 10px;">
+<td style="box-sizing: border-box; word-break: break-word; height: 510px; border-radius: 10px; box-shadow: 0px 0px 12px -4px black; -moz-box-shadow: 0px 0px 12px -4px black; -webkit-box-shadow: 0px 0px 12px -4px black;" align="center">
+<table style="width: 84.566%; border-style: none; height: 551px; border-radius: 10px;" border="0" width="100%" cellspacing="5" cellpadding="5">
+<tbody>
+<tr style="height: 51px; border-bottom: 2px solid #e6e6e6;">
+<td style="box-sizing: border-box; word-break: break-word; height: 84px; vertical-align: bottom; width: 99.7984%; border-bottom: 2px solid #e6e6e6;" colspan="2">
+<h1 id="mcetoc_1bjp7pvu70" style="box-sizing: border-box; color: #2f3133; font-size: 19px; margin-top: 0px;" align="left"><span style="font-size: 18pt; color: #9d7ba8;">Door Specs</span></h1>
+</td>
+</tr>
+<tr style="height: 33px;">
+<td style="box-sizing: border-box; word-break: break-word; width: 40.54%; height: 67px; vertical-align: bottom;"><span style="color: #878898; font-size: 13pt;">Material</span></td>
+<td style="box-sizing: border-box; word-break: break-word; width: 59.2584%; height: 67px; vertical-align: bottom;"><span style="font-size: 13pt; color: #878898;">{{doorMaterial}}</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="box-sizing: border-box; word-break: break-word; width: 40.54%; height: 23px; text-align: left;" align="center"><span style="color: #878898; font-size: 13pt;">Width</span></td>
+<td style="box-sizing: border-box; word-break: break-word; width: 59.2584%; height: 23px;"><span style="font-size: 13pt; color: #878898;">{{width}}</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="box-sizing: border-box; word-break: break-word; width: 40.54%; height: 23px;"><span style="color: #878898; font-size: 13pt;">Height</span></td>
+<td style="box-sizing: border-box; word-break: break-word; width: 59.2584%; height: 23px;"><span style="font-size: 13pt; color: #878898;">{{height}}</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="box-sizing: border-box; word-break: break-word; width: 40.54%; height: 23px;"><span style="color: #878898; font-size: 13pt;">Panels</span></td>
+<td style="box-sizing: border-box; word-break: break-word; width: 59.2584%; height: 23px;"><span style="font-size: 13pt;"><span style="color: #878898;">{{panels}}</span><br /></span></td>
+</tr>
+<tr style="height: 32px;">
+<td style="box-sizing: border-box; word-break: break-word; width: 40.54%; height: 32px;"><span style="color: #878898; font-size: 13pt;">Double glazing</span></td>
+<td style="box-sizing: border-box; word-break: break-word; width: 59.2584%; height: 32px;"><span style="font-size: 18.6667px; color: #878898;">{{doubleGlazing}}</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="box-sizing: border-box; word-break: break-word; width: 40.54%; height: 23px;"><span style="color: #878898; font-size: 13pt;">Door colour</span></td>
+<td style="box-sizing: border-box; word-break: break-word; width: 59.2584%; height: 23px;"><span style="font-size: 13pt; color: #878898;">{{doorColour}}</span></td>
+</tr>
+<tr style="height: 33px;">
+<td style="box-sizing: border-box; word-break: break-word; width: 40.54%; height: 33px;"><span style="color: #878898; font-size: 13pt;">Handle colour</span></td>
+<td style="box-sizing: border-box; word-break: break-word; width: 59.2584%; height: 33px;"><span style="font-size: 13pt; color: #878898;">{{handleColour}}</span></td>
+</tr>
+<tr style="height: 33px;">
+<td style="box-sizing: border-box; word-break: break-word; width: 40.54%; height: 33px;"><span style="color: #2dc26b; font-size: 13pt;"><span style="color: #878898;">Projecting cill</span><br /></span></td>
+<td style="box-sizing: border-box; word-break: break-word; width: 59.2584%; height: 33px;"><span style="font-size: 13pt;"><span style="color: #878898;">{{projectingCill}}</span><br /></span></td>
+</tr>
+<tr style="height: 33px;">
+<td style="box-sizing: border-box; word-break: break-word; width: 40.54%; height: 33px;"><span style="color: #2dc26b; font-size: 13pt;"><span style="color: #878898;">Threshold</span><br /></span></td>
+<td style="box-sizing: border-box; word-break: break-word; width: 59.2584%; height: 33px;"><span style="font-size: 13pt;"><span style="color: #878898;">{{threshold}}</span><br /></span></td>
+</tr>
+<tr style="height: 33px;">
+<td style="box-sizing: border-box; word-break: break-word; width: 40.54%; height: 33px;"><span style="color: #2dc26b; font-size: 13pt;"><span style="color: #878898;">Trickle vents</span><br /></span></td>
+<td style="box-sizing: border-box; word-break: break-word; width: 59.2584%; height: 33px;"><span style="font-size: 13pt;"><span style="color: #878898;">{{trickleVents}}</span><br /></span></td>
+</tr>
+<tr style="height: 33px;">
+<td style="box-sizing: border-box; word-break: break-word; width: 40.54%; height: 33px;"><span style="color: #2dc26b; font-size: 13pt;"><span style="color: #878898;">Integral blinds</span><br /></span></td>
+<td style="box-sizing: border-box; word-break: break-word; width: 59.2584%; height: 33px;"><span style="font-size: 13pt;"><span style="color: #878898;">{{integralBlinds}}</span><br /></span></td>
+</tr>
+<tr style="height: 33px;">
+<td style="box-sizing: border-box; word-break: break-word; width: 40.54%; height: 33px;"><span style="color: #2dc26b; font-size: 13pt;"><span style="color: #878898;">Folding style</span><br /></span></td>
+<td style="box-sizing: border-box; word-break: break-word; width: 59.2584%; height: 33px;"><span style="font-size: 13pt;"><span style="color: #878898;">{{foldingStyle}}</span><br /></span></td>
+</tr>
+<tr style="height: 33px;">
+<td style="box-sizing: border-box; word-break: break-word; width: 40.54%; height: 33px;"><span style="color: #2dc26b; font-size: 13pt;"><span style="color: #878898;">Opening style</span><br /></span></td>
+<td style="box-sizing: border-box; word-break: break-word; width: 59.2584%; height: 33px;"><span style="font-size: 13pt;"><span style="color: #878898;">{{openingStyle}}</span><br /></span></td>
+</tr>
+<tr style="height: 13px;">
+<td style="box-sizing: border-box; word-break: break-word; width: 40.54%; height: 13px;"><span style="color: #2dc26b; font-size: 13pt;"><span style="color: #878898;">Installation</span><br /></span></td>
+<td style="box-sizing: border-box; word-break: break-word; width: 59.2584%; height: 13px;"><span style="font-size: 13pt; color: #878898;">{{installation}}<br /></span></td>
+</tr>
+<tr style="height: 32px;">
+<td style="box-sizing: border-box; word-break: break-word; width: 40.54%; height: 32px;"><span style="color: #2dc26b; font-size: 13pt;"><span style="color: #878898;">&nbsp;</span></span></td>
+<td style="box-sizing: border-box; word-break: break-word; width: 59.2584%; height: 32px;"><span style="font-size: 13pt; color: #878898;">&nbsp;</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="height: 41px;">
+<td style="box-sizing: border-box; word-break: break-word; height: 41px;">
+<h1 id="mcetoc_1bjp7pvu70" style="box-sizing: border-box; color: #2f3133; font-size: 19px; margin-top: 0px;" align="left"><span style="font-size: 18pt; color: #9d7ba8;">&nbsp;</span></h1>
+</td>
+</tr>
+<tr style="height: 116px; background: white; border-radius: 10px;">
+<td style="box-sizing: border-box; word-break: break-word; height: 138px; border-radius: 10px; box-shadow: 0px 0px 12px -4px black; -moz-box-shadow: 0px 0px 12px -4px black; -webkit-box-shadow: 0px 0px 12px -4px black;" align="center">
+<table style="width: 84.0603%; border-style: none; height: 206px; border-radius: 10px;" border="0" width="100%" cellspacing="5" cellpadding="5">
+<tbody>
+<tr style="height: 51px; border-bottom: 2px solid #e6e6e6;">
+<td style="box-sizing: border-box; word-break: break-word; width: 100%; height: 81px; vertical-align: bottom; border-bottom: 2px solid #e6e6e6;">
+<h1 id="mcetoc_1bjp7pvu70" style="box-sizing: border-box; color: #2f3133; font-size: 19px; margin-top: 0px;" align="left"><span style="font-size: 18pt; color: #9d7ba8;">User supply and fit quote</span></h1>
+</td>
+</tr>
+<tr style="height: 10px;">
+<td style="box-sizing: border-box; word-break: break-word; width: 100%; height: 63px; vertical-align: bottom;"><span style="font-size: 24pt; font-family: arial, helvetica, sans-serif; color: #9d7ba8;"><span style="font-variant-ligatures: common-ligatures;">&pound;</span>{{price}}&nbsp;</span></td>
+</tr>
+<tr style="height: 23px;">
+<td style="box-sizing: border-box; word-break: break-word; width: 100%; height: 25px; text-align: left; display: flex;" align="center"><img style="margin-right: 8px;" src="http://bifoldbuilder.chigwellwindowcentre.co.uk/check.png" alt="" width="17" height="17" /> <span style="color: #878898; font-size: 12pt;">Exclusive of VAT</span></td>
+</tr>
+<tr style="height: 29px;">
+<td style="box-sizing: border-box; word-break: break-word; width: 100%; text-align: left; height: 37px;"><span style="color: #878898; font-size: 12pt;">&nbsp;</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="height: 22px;">
+<td style="box-sizing: border-box; word-break: break-word; height: 10px;">
+<h1 id="mcetoc_1bjp7pvu70" style="box-sizing: border-box; color: #2f3133; font-size: 19px; margin-top: 0px;" align="left"><span style="font-size: 18pt; color: #9d7ba8;">&nbsp;</span></h1>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="height: 167px;">
+<td style="box-sizing: border-box; word-break: break-word; height: 167px;">
+<table class="email-footer" style="width: 100%; height: 166px; margin-left: auto; margin-right: auto;" width="100%" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="content-cell" style="box-sizing: border-box; padding: 35px; word-break: break-word; width: 678px;" align="center">
+<p class="sub align-center" style="box-sizing: border-box; color: #aeaeae; font-size: 12px; line-height: 1.5em; margin-top: 0px;" align="center"><span style="color: #9d7ba8;"><a style="font-size: medium;" href="https://bifold-door-prv8f.ondigitalocean.app/" target="_blank" rel="noopener"><span style="font-size: 14pt;"><strong><img src="http://bifoldbuilder.chigwellwindowcentre.co.uk/bifold-logo.png" alt="" width="248" height="93" /></strong></span></a></span></p>
+<p class="sub align-center" style="box-sizing: border-box; color: #aeaeae; font-size: 12px; line-height: 1.5em; margin-top: 0px;" align="center"><span style="color: #9d7ba8; font-size: 10pt;">6daydoors.co.uk</span></p>
+<p class="sub align-center" style="box-sizing: border-box; color: #aeaeae; font-size: 12px; line-height: 1.5em; margin-top: 0px;" align="center"><span style="color: #9d7ba8; font-size: 10pt;">0208 500 4900</span></p>
+<p class="sub align-center" style="box-sizing: border-box; color: #aeaeae; font-size: 12px; line-height: 1.5em; margin-top: 0px;" align="center"><span style="color: #9d7ba8; font-size: 10pt;">info@6daydoors.co.uk</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>

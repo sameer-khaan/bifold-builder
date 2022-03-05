@@ -1,0 +1,61 @@
+.builfold-nav {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+@media only screen and (max-width: 977px) {
+  .builfold-nav {
+    padding-top: 25px;
+  }
+}
+
+.nav__logo {
+  display: flex;
+  align-items: center;
+}
+
+.nav__logo img {
+  width: 235px;
+  height: auto;
+
+  @media only screen and (max-width: 420px) {
+    width: 185px;
+  }
+}
+
+
+
+.nav__wrapper {
+  width: 71%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media only screen and (max-width: 989px) {
+  .nav__wrapper {
+    display: none;
+  }
+}
+
+.nav__contact {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.nav__contact a {
+  font-size: 18px;
+  line-height: 120px;
+  font-weight: 600;
+  color: #ffffff;
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+@media only screen and (max-width: 1414px) {
+  .nav__contact {
+    display: none;
+  }
+}
